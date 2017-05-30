@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/margin_standard"
+    android:orientation="vertical"
+    tools:context="com.example.android.paduatourguide.MainActivity">
+    <!-- Unique child of ScrollView -->
+    <LinearLayout
+        style="@style/main_linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!-- Title with city name and city arms -->
+        <LinearLayout
+            style="@style/title_horizontal_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- city name -->
+            <TextView
+                style="@style/city_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text="@string/padua"/>
+            <!-- city arms -->
+            <ImageView
+                style="@style/city_arms"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/padua_arms" />
+
+        </LinearLayout>
+        <!-- intro -->
+        <TextView
+            style="@style/intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/without"/>
+        <!-- layout with two buttons -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_standard"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <!-- start tour button -->
+            <Button
+                style="@style/start_button"
+                android:id="@+id/button_start"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:text="@string/start_tour"/>
+            <!-- map button -->
+            <ImageView
+                style="@style/map"
+                android:id="@+id/map_icon"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:contentDescription="@string/map"/>
+
+        </LinearLayout>
+        <!-- history title -->
+        <TextView
+            style="@style/history_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/intro_title" />
+        <!-- history text -->
+        <TextView
+            style="@style/history_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/intro" />
+
+    </LinearLayout>
+
+</ScrollView>

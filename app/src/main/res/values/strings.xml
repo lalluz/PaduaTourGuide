@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">PaduaTourGuide</string>
+    <string name="padua">Padua</string>
+    <string name="padua_arms">padua_arms</string>
+    <string name="map">Link to Padua map</string>
+    <string name="without">
+        Welcome to Padua, the city of the three without.\nThey say in Padua there are a lawn without
+        grass, a saint without name and a coffee shop without doors.
+    </string>
+    <string name="intro_title">A Little Bit of History</string>
+    <string name="intro">
+        Padua is a city in Northern Italy\’s Veneto region. It\’s known for the frescoes by Giotto in
+        its Scrovegni Chapel in 1303–05 and the vast 13th-century Basilica of St. Anthony.
+        The basilica, with its Byzantine-style domes and notable artworks, contains the namesake
+        saint\’s tomb. In Padua\'s old town are arcaded streets and stylish cafes frequented by
+        students of the University of Padua, established in 1222.
+
+        \n\nIn the central area of the Veneto plains, among lagoon, hills and Alpine foothills, lies
+        the Province of Padua, a fascinating mixture of art, cultures, flavors and traditions.
+        A visit to the Province is a discovery of a territory remarkably rich in history, culture,
+        vitality and ingenuity, characterized by a great variety of places to see, products to taste,
+        and people to meet. An inventive and hard-working people have known how to renew their
+        traditions time and again.
+
+        \n\nIn the Province\'s heart we find Padua, dynamic and vivacious city with a vast historical
+        and monumental heritage; it is surrounded by significant natural and cultural attractions:
+        the Euganean Springs, the Euganean Hills, the Medieval defensive walls, castles, villas, a
+        patchwork countryside and water flows that run east towards the Veneto Lagoon.
+        The southeast is occupied by the Euganei Hills, a treasure chest of wonders. Green valleys and
+        pretty hills covered in vineyards are made even more beautiful by the colors of spring, and
+        the warm atmosphere of autumn.
+
+        \n\nThe hills enclose the largest thermal area in Europe, the Terme Euganei, internationally-renowned
+        for their therapeutic waters, that after their long subterranean journey rise to the surface
+        here. The principal spa centers are Abano, Montegrotto and Galzigano Terme, and they offer
+        mudbath therapies and many of the most modern beauty and wellness treatments.
+
+        \n\nThe Province is also made up of a vast network of navigable waterways. Between Padua and
+        Venice, the Brenta River makes a river cruise (Burchiello) an absolutely unforgettable
+        experience. Cruisers will feel - even briefly - akin to the lords and aristocrats of
+        Venice that used these boats to reach their summer residences - simple buildings that
+        they had transformed into magnificent works of architecture, with the help of brilliant
+        artists such as Palladio, Preti and Scamozzi.
+
+        \n\nSummertime tours on the canals circling Padua offer unique occasions to see the city from a
+        different perspective. Otherwise, experiencing this terrain on a bicycle, exploring the
+        network of paths, particularly along rivers and streams, is also an excellent choice: try
+        the bike track in Padua or on the Euganean Riviera, or a romantic itinerary on the banks of
+        the Battaglia Canal, with its lovely villas and scenic shortcuts through the Hills.
+
+        \n\nA tour of the fortified cities is an intriguing way to get to know Padua\’s long Medieval
+        history. Cittadella, Este, Monselice and Montagnana are ideal for living the past, via
+        commemorative re-enactments in period costumes, and the palios and jousts that animate these
+        ancient villages every year. The area\'s millenary history also shows up in the local arts of
+        good cuisine and fine wine. Here, the origins of viticulture are ancient; at the same time,
+        cultivation techniques have been perfected over time. The high-quality whites and reds of
+        today are the fruits of such meticulous and time-tested labor.
+
+        \n\n(from http://www.italia.it/en/discover-italy/veneto/padua.html)
+    </string>
+
+    <!-- Start button -->
+    <string name="start_tour">Start Tour</string>
+
+    <!-- Section names -->
+    <string name="walking">Walking</string>
+    <string name="visit">Visit</string>
+    <string name="nearby">Nearby</string>
+    <string name="food">Food</string>
+
+    <!-- PLACES -->
+    <!-- Place name for walking and visit sections with description -->
+    <string name="prato_della_valle">Prato della Valle</string>
+    <string name="descr_prato_della_valle">
+        The lawn without grass. Prato della Valle is the biggest square in Europe and its
+        history is fascinating.
+    </string>
+    <string name="la_specola">La Specola</string>
+    <string name="descr_la_specola">
+        This tower is the astronomic observatory where the great Galileo Galilei, professor in Padua
+        University, used to study and work.
+    </string>
+    <string name="pedrocchi">Caffè Pedrocchi</string>
+    <string name="descr_cafe_pedrocchi">
+        The Caffè without doors. There is a lot of italian history in this caffè designed by
+        architect Giuseppe Jappelli in the 18th century.
+    </string>
+    <string name="salone">Salone della Ragione</string>
+    <string name="descr_salone">
+        The medieval City Hall. Outside it\'s magnificent, inside it\'s stunning, below it hides a
+        wonderful food market.
+    </string>
+    <string name="piazze">Le Piazze</string>
+    <string name="descr_piazze">
+        There are three of them, all around the Salone della Ragione.
+        Piazza delle Erbe, Piazza della Frutta and Piazza dei Signori, each one with its own market.
+    </string>
+    <string name="orto_botanico">Orto Botanico</string>
+    <string name="descr_orto_boanico">
+        It is the world\'s oldest academic botanical garden, founded in 1545.
+    </string>
+    <string name="teatro_anatomico">Teatro Anatomico</string>
+    <string name="descr_teatro_anatomico">
+        Padua University is the second most antique university of Italy. This theatre was secretly
+        used to study human anatomy since 1594, when this kind of studies were prohibited.
+    </string>
+    <string name="santo">Basilica del Santo</string>
+    <string name="descr_santo">
+        The Saint without name. He\'s Sant\'Antonio da Padova, of course, but here we call him and
+        his cathedral "Il Santo".
+    </string>
+    <string name="ghetto">Il Ghetto</string>
+    <string name="descr_ghetto">
+        From Piazza delle Erbe you can reach the narrow streets of the Ghetto.
+    </string>
+    <string name="orologio">Torre dell\'Orologio</string>
+    <string name="descr_orologio">
+        In the beautiful Piazza dei Signori there is the clock tower. Built by Jacopo Dondi
+        dell\'Orologio in 1344 it is still working!
+    </string>
+    <string name="eremitani_musei">Musei Civici Eremitani</string>
+    <string name="descr_eremitani">
+        An interesting museum full of history and masterpieces. In the adjacent Eremitani\'s church
+        you can admire an Andrea Mantegna\'s fresco in the Olivetari Chapel.
+    </string>
+    <string name="cappella_scrovegni">Cappella degli Scrovegni</string>
+    <string name="descr_capella_scrovegni">
+        Inside the ancient Roman Arena there is the real jewel of Padua. This Chapel contains a
+        fresco cycle by Giotto completed about 1305.
+    </string>
+    <string name="battistero">Battistero del Duomo</string>
+    <string name="descr_battistero">
+        This chapel next to the Padua Duomo was completely frescoed by Giusto de Menabuoi about 1375.
+    </string>
+    <string name="santa_giustina">Basilica di Santa Giustina</string>
+    <string name="descr_santa_giustina">
+        In Prato della Valle there is the 9th biggest church of the world. You can visit the
+        interesting crypt as well as the church.
+    </string>
+    <!-- Place name for nearby section -->
+    <string name="colli">Parco dei Colli Euganei</string>
+    <string name="descr_colli">
+        A protected area full of nature, traditions, good food and great wine. Take a car and explore it!
+    </string>
+    <string name="terme">Terme Euganee</string>
+    <string name="descr_terme">
+        This ancient roman thermal center is still the ideal place to relax in the heart of the
+        Parco dei Colli Euganei.
+    </string>
+    <string name="bike">Bike along the rivers</string>
+    <string name="descr_bike">
+        If you like bike, discover the hundreds of kilometers of bicycle lanes along the rivers all around
+        Padua.
+    </string>
+    <string name="riviera_brenta">Riviera del Brenta</string>
+    <string name="descr_riviera">
+        Along the Brenta river, drive from Padua to Venice and discover Antonio Canova\' villas and
+        suggestive landscapes.
+    </string>
+    <string name="burchiello">Il Burchiello</string>
+    <string name="descr_burchiello">
+        From Padua to Venice by boat, the Burchiello! This historical tour on Brenta river will show
+        you Antonio Canova\' villas and suggestive landscapes.
+    </string>
+    <string name="praglia">Abbazia di Praglia</string>
+    <string name="descr_praglia">
+        In the heart of the Parco dei Colli Euganei there is this monastery with his abbey which are
+        worth a visit.
+    </string>
+    <string name="cappeller">Parco Cappeller</string>
+    <string name="descr_cappeller">
+        A rich family decided to help and protect a lot of species and built this educational park.
+    </string>
+    <string name="monselice">Monselice</string>
+    <string name="descr_monselice">
+        A nice walk to the villa on the hill passing by seven little churches.
+    </string>
+    <string name="piazzola">Mercato dell\'Antiquariato</string>
+    <string name="descr_piazzola">
+        Every last sunday of the month, in front of a beautiful historic villa, you can walk in this
+        crazy market full of old stuff.
+    </string>
+
+    <!-- FOOD -->
+    <!-- Restaurant name and description-->
+    <string name="descr_pedrocchi">
+        The famous Caffè without doors.\nGo inside and discover why!
+    </string>
+    <string name="nazionale">Bar Nazionale</string>
+    <string name="descr_nazionale">
+        This is the best place ever to eat the famous Tramezzino.\nSeat in the beautiful Piazza delle
+        Erbe and enjoy your Tramezzino with a Spritz!
+    </string>
+    <string name="graziati">Graziati</string>
+    <string name="descr_graziati">
+        A very elegant place for sweets, appetizers and cocktails in the heart of the city..\nTry the
+        \"millefoglie\" and you\'ll never forget it!
+    </string>
+    <string name="orsucci">Orsucci</string>
+    <string name="descr_orsucci">
+        A unusual Pizza, the most antique and famous of the city, baked in a little pan in the
+        wood oven.\nTry one and you\'ll desire to eat all of them!
+    </string>
+    <string name="paccagnella">Antica Osteria Paccagnella</string>
+    <string name="descr_paccagnella">
+        A traditional \"osteria\" of Veneto\'s cuisine. Great!
+    </string>
+    <string name="calandre">Le Calandre</string>
+    <string name="descr_calandre">
+        One of the most exclusive and expensive restaurant in Italy.\nI never tried it, but critics
+        say it\'s truly amazing.
+    </string>
+    <string name="folperia">La Folperia</string>
+    <string name="descr_folperia">
+        This is really a stall, but a prize winner one! You can find it in Piazza della Frutta, look
+        for a lot of people waiting and you will find it!
+    </string>
+    <string name="cavour">Caffè Cavour</string>
+    <string name="descr_cavour">
+        An elegant caffè with delicious tramezzini and a really famous patisserie.
+    </string>
+    <string name="nane">Trattoria Nane de la Giulia</string>
+    <string name="descr_nane">
+        A typical hosteria were you can eat home made cuisine and local wine. Here you can hear
+        people speaking Padua dialect.
+    </string>
+    <string name="antico_forno">Antico Forno</string>
+    <string name="descr_antico_forno">
+        A nice place where you can sit, rest and eat very genuine food and pastry.
+    </string>
+
+    <!-- Restaurant address -->
+    <string name="dumb_address1">piazza della Frutta, 1</string>
+    <string name="dumb_address2">via Roma, 156</string>
+    <string name="dumb_address3">Prato della Valle, 86</string>
+    <string name="dumb_address4">piazza dei Signori, 73</string>
+
+    <!-- Restaurant telephone -->
+    <string name="dumb_phone1">049.6598254</string>
+    <string name="dumb_phone2">049.00972489</string>
+    <string name="dumb_phone3">049.00972489</string>
+    <string name="dumb_phone4">049.88990033</string>
+
+    <!-- Restaurant price -->
+    <string name="one_euro">\u20ac</string>
+    <string name="two_euros">\u20ac\u20ac</string>
+    <string name="three_euros">\u20ac\u20ac\u20ac</string>
+    <string name="four_euros">\u20ac\u20ac\u20ac\u20ac</string>
+
+</resources>

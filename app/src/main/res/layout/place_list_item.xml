@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Place list item layout -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/place_list_item_height"
+    android:id="@+id/place_list_item_layout">
+    <!-- Background image -->
+    <ImageView
+        style="@style/place_image"
+        android:id="@+id/place_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <!-- Scrim gradient on imageview to make words more readable -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/scrim_gradient" />
+    <!-- Name of the place -->
+    <TextView
+        style="@style/place_name"
+        android:id="@+id/place_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <!-- Short description of the place -->
+    <TextView
+        style="@style/place_description"
+        android:id="@+id/place_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

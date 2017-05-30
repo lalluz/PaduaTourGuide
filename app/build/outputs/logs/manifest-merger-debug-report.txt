@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lara\.android\build-cache\1961c990b760b9331c7180d170fa2edc0ac88df2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Lara\.android\build-cache\6df46f990c47c3e8510574edf05ea379497620ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lara\.android\build-cache\8a9bba62ffb29097844229f074e7f725d5a2aa15\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lara\.android\build-cache\b8339cc102400a3a71ccebab93895b225991ed61\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lara\.android\build-cache\559969ab18030a8e39d5ce1827ccfc38a87f3b1f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Lara\.android\build-cache\c9dd9dce39ecadc0da4caf5ea44ad54403281709\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lara\.android\build-cache\c321b9ad7b6e23d7793acb4fd3d8639af706a8d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lara\.android\build-cache\7bc8400b143040a28a9b7e1ae09d23b5adc9787c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lara\.android\build-cache\7ee65849581a03e4ef6aa68585d5a48c97d69c6d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lara\.android\build-cache\b43b2ee3ee0058bbf21a92e707add37234c1529b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lara\.android\build-cache\bb31c917864696bcdb21aa5ca0e9d5fcc47fba4a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lara\.android\build-cache\0f14555e82b77ef50799f36d1981be4caa7d129c\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:7:9-46
+	android:theme
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.paduatourguide.MainActivity
+ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.android.paduatourguide.TourActivity
+ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:21:9-24:58
+	android:label
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:23:13-39
+	android:parentActivityName
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml:22:13-41
+uses-sdk
+INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lara\.android\build-cache\1961c990b760b9331c7180d170fa2edc0ac88df2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Lara\.android\build-cache\6df46f990c47c3e8510574edf05ea379497620ae\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lara\.android\build-cache\8a9bba62ffb29097844229f074e7f725d5a2aa15\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lara\.android\build-cache\b8339cc102400a3a71ccebab93895b225991ed61\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lara\.android\build-cache\559969ab18030a8e39d5ce1827ccfc38a87f3b1f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Lara\.android\build-cache\c29d1ce85b2562b0838617b89ad20586fb81c1be\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Lara\.android\build-cache\c9dd9dce39ecadc0da4caf5ea44ad54403281709\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lara\.android\build-cache\c321b9ad7b6e23d7793acb4fd3d8639af706a8d8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lara\.android\build-cache\7bc8400b143040a28a9b7e1ae09d23b5adc9787c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lara\.android\build-cache\7ee65849581a03e4ef6aa68585d5a48c97d69c6d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lara\.android\build-cache\b43b2ee3ee0058bbf21a92e707add37234c1529b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lara\.android\build-cache\bb31c917864696bcdb21aa5ca0e9d5fcc47fba4a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lara\.android\build-cache\0f14555e82b77ef50799f36d1981be4caa7d129c\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Lara\.android\build-cache\6df46f990c47c3e8510574edf05ea379497620ae\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lara\AndroidStudioProjects\PaduaTourGuide\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Lara\.android\build-cache\6df46f990c47c3e8510574edf05ea379497620ae\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lara\.android\build-cache\8a9bba62ffb29097844229f074e7f725d5a2aa15\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lara\.android\build-cache\b8339cc102400a3a71ccebab93895b225991ed61\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lara\.android\build-cache\559969ab18030a8e39d5ce1827ccfc38a87f3b1f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Lara\.android\build-cache\c29d1ce85b2562b0838617b89ad20586fb81c1be\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Lara\.android\build-cache\c9dd9dce39ecadc0da4caf5ea44ad54403281709\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lara\.android\build-cache\c321b9ad7b6e23d7793acb4fd3d8639af706a8d8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lara\.android\build-cache\7bc8400b143040a28a9b7e1ae09d23b5adc9787c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lara\.android\build-cache\7ee65849581a03e4ef6aa68585d5a48c97d69c6d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lara\.android\build-cache\b43b2ee3ee0058bbf21a92e707add37234c1529b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lara\.android\build-cache\bb31c917864696bcdb21aa5ca0e9d5fcc47fba4a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lara\.android\build-cache\0f14555e82b77ef50799f36d1981be4caa7d129c\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Lara\.android\build-cache\6df46f990c47c3e8510574edf05ea379497620ae\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Lara\.android\build-cache\6df46f990c47c3e8510574edf05ea379497620ae\output\AndroidManifest.xml:26:9-47
